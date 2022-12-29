@@ -7,7 +7,6 @@
   "fieldUnique": "{{field}} should be unique",
   "pleaseTypeValidEmails": "Email is not valid",
   "pleaseTypeValidEmail": "Email is not valid",
-  "invalidField": "{{field}} is invalid",
   "exists": "Something went wrong",
   "uniquefilename": "Should be unique",
   "betweenZeroAndHundred": "The value should be more than zero and not more than hundred",
